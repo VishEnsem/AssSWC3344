@@ -1,0 +1,20 @@
+1;Jhonny;12 Jalan Tamaru;Closet;2;86.0;Shipped
+2;Tasveen;36 Jalan Abu;Tablet;1;1500.0;Pending
+3;Michael Lee;789 Oak Ave;Shoes;3;49.95;Pending
+4;Bob Brown;321 Pine St;Doodad;8;12.0;Cancelled
+5;Charlie;654 Maple St;Widget;2;2.5;Pending
+6;Daisy;987 Cedar St;Gadget;6;15.0;Shipped
+7;Robert Williams;4044 Birch Rd;Watch;1;99.95;Pending
+8;Jennifer Hernandez;5055 Poplar St;Laptop;1;749.99;Delivered
+9;HankSilver;444 Aspen St;Gadget;9;15.0;Shipped
+10;Ivy Gold;555 Redwood St;Thingamajig;1;7.5;Delivered
+11;Jack Bronze;666 Sequoia St;Doodad;2;12.0;Cancelled
+12;Kate Copper;777 Palm St;Widget;10;2.5;Pending
+13;Christopher Allen;30330 Spruce Ln;Toaster;1;24.99;Delivered
+14;MargaretWilson;40440 Birch Rd;Vacuum Cleaner;1;149.99;Shipped
+15;AmandaMiller;60660 Willow Dr;TV;1;499.99;Cancelled
+16;Katherine Garcia;80880 Elm St;Game Console;1;299.99;Shipped
+17;Oscar Zinc;1111 Oak St;Widget;8;2.5;Pending
+18;Paul Nickel;1212 Pine St;Gadget;7;15.0;Shipped
+19;Quincy Brass;1313 Maple St;Thingamajig;5;7.5;Delivered
+20;MonaSteel;999 Fir St;Thingamajig;6;7.5;Delivered
